@@ -1,0 +1,90 @@
+[debug] [2021-07-29T19:46:05.828Z] ----------------------------------------------------------------------
+[debug] [2021-07-29T19:46:05.834Z] Command:       C:\Users\Parvaze\AppData\Local\Programs\Python\Python38\Scripts\node.exe C:\Users\Parvaze\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-07-29T19:46:05.835Z] CLI Version:   9.14.0
+[debug] [2021-07-29T19:46:05.835Z] Platform:      win32
+[debug] [2021-07-29T19:46:05.836Z] Node Version:  v12.18.4
+[debug] [2021-07-29T19:46:05.838Z] Time:          Fri Jul 30 2021 01:16:05 GMT+0530 (India Standard Time)
+[debug] [2021-07-29T19:46:05.838Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-29T19:46:05.844Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=933865452&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-07-29T19:46:18.553Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2021-07-29T19:57:30.436Z] ----------------------------------------------------------------------
+[debug] [2021-07-29T19:57:30.442Z] Command:       C:\Users\Parvaze\AppData\Local\Programs\Python\Python38\Scripts\node.exe C:\Users\Parvaze\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-07-29T19:57:30.443Z] CLI Version:   9.14.0
+[debug] [2021-07-29T19:57:30.443Z] Platform:      win32
+[debug] [2021-07-29T19:57:30.443Z] Node Version:  v12.18.4
+[debug] [2021-07-29T19:57:30.445Z] Time:          Fri Jul 30 2021 01:27:30 GMT+0530 (India Standard Time)
+[debug] [2021-07-29T19:57:30.446Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-29T19:57:30.454Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=1063256593&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-07-29T19:58:06.995Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2021-07-29T19:58:21.246Z] ----------------------------------------------------------------------
+[debug] [2021-07-29T19:58:21.252Z] Command:       C:\Users\Parvaze\AppData\Local\Programs\Python\Python38\Scripts\node.exe C:\Users\Parvaze\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-07-29T19:58:21.252Z] CLI Version:   9.14.0
+[debug] [2021-07-29T19:58:21.253Z] Platform:      win32
+[debug] [2021-07-29T19:58:21.253Z] Node Version:  v12.18.4
+[debug] [2021-07-29T19:58:21.255Z] Time:          Fri Jul 30 2021 01:28:21 GMT+0530 (India Standard Time)
+[debug] [2021-07-29T19:58:21.255Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-29T19:58:21.262Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=636124039&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-07-29T19:58:47.405Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2021-07-29T19:59:41.874Z] ----------------------------------------------------------------------
+[debug] [2021-07-29T19:59:41.895Z] Command:       C:\Users\Parvaze\AppData\Local\Programs\Python\Python38\Scripts\node.exe C:\Users\Parvaze\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2021-07-29T19:59:41.895Z] CLI Version:   9.14.0
+[debug] [2021-07-29T19:59:41.896Z] Platform:      win32
+[debug] [2021-07-29T19:59:41.896Z] Node Version:  v12.18.4
+[debug] [2021-07-29T19:59:41.898Z] Time:          Fri Jul 30 2021 01:29:41 GMT+0530 (India Standard Time)
+[debug] [2021-07-29T19:59:41.898Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-29T19:59:41.904Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2021-07-27T20:06:33.766Z] ----------------------------------------------------------------------
+[debug] [2021-07-27T20:06:33.772Z] Command:       C:\Users\Parvaze\AppData\Local\Programs\Python\Python38\Scripts\node.exe C:\Users\Parvaze\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-07-27T20:06:33.773Z] CLI Version:   9.14.0
+[debug] [2021-07-27T20:06:33.773Z] Platform:      win32
+[debug] [2021-07-27T20:06:33.773Z] Node Version:  v12.18.4
+[debug] [2021-07-27T20:06:33.775Z] Time:          Wed Jul 28 2021 01:36:33 GMT+0530 (India Standard Time)
+[debug] [2021-07-27T20:06:33.776Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-27T20:06:33.782Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 

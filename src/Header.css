@@ -33,6 +33,13 @@
     border: none;
 }
 
+
+.header__input > input:focus{
+    outline: none;
+    border-color: rgb(15, 165, 235);
+
+}
+
 .header__inputButton {
     width: 50px !important;
     background-color: #fafafa;
